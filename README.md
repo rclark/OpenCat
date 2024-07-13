@@ -119,5 +119,6 @@ For updates:
 * [Review, open-box, and demos by users](https://www.youtube.com/playlist?list=PLHMFXft_rV6PSS3Qu5yQ-0iPW-ohu1sM3)
 * [OpenCat robot showcase by users](https://www.petoi.com/pages/petoi-open-source-extensions-user-demos-and-hacks)
 * [OpenCat robot gallery](https://www.petoi.com/pages/robot-pet-gallery)
+* [Another cat](https://github.com/rclark/cat)
 
 The [old repository for OpenCat](https://github.com/PetoiCamp/OpenCat-Old) is too redundant with large image logs and is obsolete without further updates.
